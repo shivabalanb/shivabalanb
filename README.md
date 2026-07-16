@@ -27,8 +27,8 @@ Right now, I'm diving deep into **Rust** and exploring where physical hardware m
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=shivabalanb&show_icons=true&theme=dark&hide_border=true" alt="shivabalanb's stats" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivabalanb&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivabalanb&theme=dark&hide_border=true" alt="Shiva's Streak Stats" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivabalanb&theme=react-dark&hide_border=true" alt="Shiva's Activity Graph" height="150" />
 </p>
 
 ---
